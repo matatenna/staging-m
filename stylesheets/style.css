@@ -1696,7 +1696,7 @@ div.port-item-container:hover {
 }
 
 div.port-item-container:hover a, div.port-item-container:hover a:visited {
-	color:#F07057;
+	color:#8EBA17;
 	text-decoration:none
 }
 
@@ -2130,7 +2130,7 @@ h4.staff-name {
 .staff.social a {
 	font-size:20px;
 	line-height:30px;  
-	color:#181818; 
+	color: #7A2E7D; 
 	text-shadow:none; 
 	display:inline-block; 
 	margin:0 3px;
@@ -2162,7 +2162,8 @@ h4.staff-name {
 }
 
 .service h2 {
-	font-family:'LeagueGothicRegular','Helvetica Neue',Helvetica,Arial,Sans-Serif
+	/*font-family:'LeagueGothicRegular','Helvetica Neue',Helvetica,Arial,Sans-Serif*/
+	font-family: 'Patua One', cursive;
 }
 
 .serv .icon {
@@ -2174,7 +2175,7 @@ h4.staff-name {
 
 .serv {
 	font-size:40px; 
-	color:#F07057; 
+	color: #8EBA17; 
 }
 
 .service { 

@@ -345,7 +345,8 @@ website:   	http://www.themepunch.com
 			color: #fff; 
 			text-shadow: none; 
 			font-weight: normal; 
-			font-size: 80px; 
+			/*font-size: 80px;*/
+			font-size: 50px; 
 			line-height: 50px; 
 			margin: 0px; 
 			border-width: 0px; 
@@ -353,7 +354,8 @@ website:   	http://www.themepunch.com
 			white-space:nowrap;	
   letter-spacing: 1px;	
   text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
-			font-family:'LeagueGothicRegular','Helvetica Neue',Helvetica,Arial,Sans-Serif;
+			/*font-family:'LeagueGothicRegular','Helvetica Neue',Helvetica,Arial,Sans-Serif;*/
+			font-family: 'Patua One', cursive;
       		background:#000
 }
 .lt-ie9 .tp-caption.very_large_text_league{
