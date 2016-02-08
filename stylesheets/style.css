@@ -310,7 +310,8 @@ div.dashed {
 
 .section-title { 
 	font-size:50px; 
-	font-family: 'ChunkFiveRegular', Arial, sans-serif; 
+	/*font-family: 'ChunkFiveRegular', Arial, sans-serif;*/
+	font-family: 'Patua One', cursive; 
 	color:#181818; 
 	text-align:center; 
 	padding-bottom:70px; 
@@ -391,7 +392,11 @@ only screen and (min-device-pixel-ratio: 1.5) {
 	text-transform:uppercase
 }
 
-span.colored { color:#F07057 !important; padding-left:4px; }
+span.colored { 
+	/*color:#F07057 !important;*/
+	color: #782C7A !important; 
+	padding-left:4px; 
+}
 
 
 /* #Header Banner
@@ -2088,7 +2093,9 @@ h4.staff-name {
 	border-bottom: 4px double #E3E3E3;
     border-top: 4px double #E3E3E3;
 	text-shadow:none;
-	margin-top:10px
+	margin-top:10px;
+	font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
 }
 
 .port-item-container:hover h4.staff-name {
@@ -3438,3 +3445,14 @@ p.creditsRight {
 .intro-form-wrap .success p{text-shadow:none;color:#fff;}
 .intro-form-wrap .success p strong{color:#F07057;font-weight:bold;}  
 .intro-form-wrap .success {border:none;padding:15px;}
+
+.matatenna-span {
+	text-transform: uppercase;
+	font-family: 'Patua One', cursive;
+	/*color: #8EBA17;*/
+}
+
+.matatenna-texto {
+	font-family: 'Patua One', cursive;
+	color: #703280;	
+}

@@ -238,7 +238,7 @@ website:   	http://www.themepunch.com
 			position: absolute; 
 			color: #000; 
 			text-shadow: none; 
-			font-weight: 800; 
+			font-weight: 100; 
 			font-size: 24px; 
 			line-height: 20px; 
 			font-family: 'Open Sans', sans-serif; 
@@ -378,10 +378,12 @@ website:   	http://www.themepunch.com
 }
 .tp-caption.modern_medium_fat_black_on_white{
 			position: absolute; 
-			color: #000; 
-      background:#fff;
+			/*color: #000;*/
+			color: #fff; 
+            /*background:#fff;*/
+            background: rgba(0, 0, 0, 0.57);
 			text-shadow: none; 
-			font-weight: 800; 
+			font-weight: 100; 
 			font-size: 24px; 
 			line-height: 28px; 
 			font-family: 'Open Sans', sans-serif; 
@@ -395,12 +397,14 @@ website:   	http://www.themepunch.com
 .tp-caption.modern_medium_fat_white_on_black{
 			position: absolute; 
 			color: #fff;
-      background: #000; 
+            /*background: #000;*/ 
+            background: #7B2F7E;
 			text-shadow: none; 
-			font-weight: 800; 
+			/*font-weight: 800;*/ 
 			font-size: 24px; 
 			line-height: 28px; 
-			font-family: 'Open Sans', sans-serif; 
+			font-family: 'Open Sans', sans-serif;
+			/*font-family: 'Patua One', cursive;*/ 
 			margin: 0px; 
 			border-width: 0px; 
 			border-style: none; 

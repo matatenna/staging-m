@@ -87,7 +87,7 @@ html {
 	p img { margin: 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
-	em { font-style: italic; }
+	em { /*font-style: italic;*/ font-family: 'Patua One', cursive; font-size: 17px; text-transform: uppercase; }
 	strong { font-weight: bold; color: #333; }
 	small { font-size: 80%; }
 
