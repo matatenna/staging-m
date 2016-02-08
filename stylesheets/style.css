@@ -112,7 +112,8 @@ p {
 }
 
 a,  a:visited { 
-	color:#F07057; 
+	/*color:#F07057;*/
+	color: #8EBB17; 
 	text-decoration:none;
 }
 
@@ -300,8 +301,8 @@ div.dashed {
 	color:#fff; 
 	padding: 20px 10px 15px 10px;
 	margin-bottom: 50px;
-	border-left:2px solid #F07057; 
-	border-right:2px solid #F07057; 
+	border-left: 2px solid #8EBB17;
+    border-right: 2px solid #8EBB17;
 	background:url(../images/patterns/black-50.png); 
 	font-family:'LeagueGothicRegular','Helvetica Neue',Helvetica,Arial,Sans-Serif; 
 	text-transform:uppercase;

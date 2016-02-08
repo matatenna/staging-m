@@ -92,7 +92,7 @@
 ================================================== */
 .footer-social-section {
     min-height: 200px;
-    background:url('http://placehold.it/1100x800');
+    background:url('../images/social.jpg');
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
