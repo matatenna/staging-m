@@ -38,5 +38,5 @@ git pull origin <rama>   <Esta puede ser "master" , "development" , "staging">
 
 2. Para cambiar de rama 
 
-git checkout <rama>  < master, development, staging
+git checkout <rama>  < master, development, staging>
 
