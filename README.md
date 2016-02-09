@@ -36,5 +36,6 @@ RECUERDA
 
 git pull origin <rama>   <Esta puede ser "master" , "development" , "staging">
 
+2. Para cambiar de rama 
 
-YA SOY HACKER EQUIPO? ?
+git checkout <rama>  < master, development, staging
