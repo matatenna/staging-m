@@ -162,13 +162,14 @@
 /* #Facebook Section
 ================================================== */
 .facebook-section {
-    background:url('http://placehold.it/1100x800');
+    background:url('../images/placeholders/fb-parallax.jpg');
     background-attachment: fixed;
 }
 
 .facebook-section .section-inner {
     min-height: 200px;
 }
+
 
 /* #Port Section
 ================================================== */
