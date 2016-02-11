@@ -396,10 +396,9 @@ jQuery(window).load(function(){
 	
 	jQuery(".twitter-section").backstretch([
 		
-		"http://placehold.it/800x500",
-		"http://placehold.it/800x500/ffffff/111111",
-		"http://placehold.it/800x500",
-		"http://placehold.it/800x500/ffffff/111111"
+		"http://www.matatenna.com/images/placeholders/twitter-slider1.jpg",
+		"http://www.matatenna.com/images/placeholders/twitter-slider2.jpg",
+		"http://www.matatenna.com/images/placeholders/twitter-slider3.jpg"
 
 	], {duration: 3000, fade: 750});
 
