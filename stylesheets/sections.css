@@ -75,6 +75,7 @@
     background-size: cover;
 }
 
+
 /* #Pricing Section
 ================================================== */
 .pricing-section {
@@ -792,37 +793,37 @@ a.intro-button {
 }
 
 .demo-parallax-section-5 {
-    background:url('http://placehold.it/1100x800');
+    background:url('../images/placeholders/book-parallax-1.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
 
 .demo-parallax-section-6 {
-    background:url('http://placehold.it/1100x800');
+    background:url('../images/placeholders/book-parallax-2.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
 
 .demo-parallax-section-7 {
-    background:url('http://placehold.it/1100x800');
+    background:url('../images/placeholders/book-parallax-3.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
 
 .demo-parallax-section-8 {
-    background:url('http://placehold.it/1100x800');
+    background:url('../images/placeholders/book-parallax-4.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
 
 .demo-parallax-section-9 {
-    background:url('http://placehold.it/1100x800');
+    background:url('../images/placeholders/book-parallax-5.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
 
 .demo-parallax-section-10 {
-    background:url('http://placehold.it/1100x800');
+    background:url('../images/placeholders/book-parallax-6.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
