@@ -532,15 +532,15 @@ jQuery(window).load(function() {
 	if ( Modernizr.touch ) {
 
 		jQuery("#testimonial-section").backstretch("http://placehold.it/1100x800");
-		jQuery("#instagram-section").backstretch("http://placehold.it/1100x800");
-		jQuery("#contact-section").backstretch("http://placehold.it/1100x800");
+		jQuery("#instagram-section").backstretch("../images/back-1.jpg");
+		jQuery("#contact-section").backstretch("../images/backgrounds/wavegrid.png");
 		jQuery("#blog-top-section").backstretch("http://placehold.it/1100x800");
 		jQuery("#blog-bot-section").backstretch("http://placehold.it/1100x800");
 		jQuery("#port-top-section").backstretch("http://placehold.it/1100x800");
 		jQuery("#port-bot-section").backstretch("http://placehold.it/1100x800");
-		jQuery("#facebook-section").backstretch("http://placehold.it/1100x800");
+		jQuery("#facebook-section").backstretch("../images/placeholders/fb-parallax.jpg");
 		jQuery("#pricing-section").backstretch("http://placehold.it/1100x800");
-		jQuery("#footer-social-section").backstretch("http://placehold.it/1100x800");
+		jQuery("#footer-social-section").backstretch("../images/social.jpg");
 		
 		jQuery('.demo-parallax-section-home1').backstretch("http://placehold.it/1100x800");
 		jQuery('.demo-parallax-section-home2').backstretch("http://placehold.it/1100x800");
@@ -553,12 +553,12 @@ jQuery(window).load(function() {
 		jQuery(".demo-parallax-section-3").backstretch("http://placehold.it/1100x800");
 		jQuery(".demo-parallax-section-4").backstretch("http://placehold.it/1100x800");
 		
-		jQuery(".demo-parallax-section-5").backstretch("http://placehold.it/1100x800");
-		jQuery(".demo-parallax-section-6").backstretch("http://placehold.it/1100x800");
-		jQuery(".demo-parallax-section-7").backstretch("http://placehold.it/1100x800");
-		jQuery(".demo-parallax-section-8").backstretch("http://placehold.it/1100x800");
-		jQuery(".demo-parallax-section-9").backstretch("http://placehold.it/1100x800");
-		jQuery(".demo-parallax-section-10").backstretch("http://placehold.it/1100x800");
+		jQuery(".demo-parallax-section-5").backstretch("../images/placeholders/book-parallax-1.jpg");
+		jQuery(".demo-parallax-section-6").backstretch("../images/placeholders/book-parallax-2.jpg");
+		jQuery(".demo-parallax-section-7").backstretch("../images/placeholders/book-parallax-3.jpg");
+		jQuery(".demo-parallax-section-8").backstretch("../images/placeholders/book-parallax-4.jpg");
+		jQuery(".demo-parallax-section-9").backstretch("../images/placeholders/book-parallax-5.jpg");
+		jQuery(".demo-parallax-section-10").backstretch("../images/placeholders/book-parallax-6.jpg");
 		
 		
 		jQuery("ul#mainnav").addClass("hideTiny");
